@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\User\OneDrive\Área de Trabalho\ProjetoGithubSenai\.metadata\.plugins\org.eclipse.jdt.core
+73672263.index
+1865797976.index
+2797259683.index
